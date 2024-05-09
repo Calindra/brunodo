@@ -18,7 +18,7 @@ const { SingleBar, Presets } = require("cli-progress");
 const AdmZip = require("adm-zip");
 
 const PACKAGE_NONODO_VERSION =
-  process.env.PACKAGE_NONODO_VERSION ?? "1.0.0";
+  process.env.PACKAGE_NONODO_VERSION ?? "1.0.1";
 const PACKAGE_NONODO_URL = new URL(
   process.env.PACKAGE_NONODO_URL ??
     `https://github.com/Calindra/nonodo/releases/download/v${PACKAGE_NONODO_VERSION}/`,
