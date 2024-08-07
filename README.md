@@ -1,5 +1,8 @@
 # Brunodo
 
+> [!WARNING]
+> **Deprecated repo**: You can get latest version on brunodo on nonodo: https://github.com/Calindra/nonodo/tree/main/npm-package
+
 How to wrap a binary?
 
 To avoid download all the first binaries,
